@@ -12,7 +12,7 @@ This app is build in flutter and refers to current pandemic of Covid-19. This ap
 [Freepik](www.freepik.com)
 
 ## Usages
-* Download and install the app from the above mentioned link.
+* Download and install the app from this [link](https://drive.google.com/open?id=1Dg8oFWgr4APP6rVBkOb05M2Eg2hrkKdK).
 * Enable install from unknown sources.
 
 
