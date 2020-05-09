@@ -1,6 +1,21 @@
 # covid-19 Tracker
 This app is build in flutter and refers to current pandemic of Covid-19. This app is one stop to all your queries regarding this Coronavirus. This app updates daily informing about havoc caused by this virus throughout the world. 
 </br>
+
+## App Info
+<b>Version:</b> 1.0</br>
+<b>Updated on:</b> May 2020</br>
+<b>Size:</b> 20 MB</br>
+<b>App permissions:</b> Internet Connectivity </br>
+
+## Images
+[Freepik](www.freepik.com)
+
+## Usages
+* Download and install the app from the above mentioned link.
+* Enable install from unknown sources.
+
+
 Here are some screenshots of the app : </br>
 </br>
 <img src="./ss1.jpeg" width="285px" height="auto">
