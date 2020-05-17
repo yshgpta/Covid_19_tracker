@@ -23,3 +23,4 @@ Here are some screenshots of the app : </br>
 <img src="./ss3.jpeg" width="285px" height="auto">
 <img src="./ss4.jpeg" width="285px" height="auto">
 <img src="./ss5.jpeg" width="285px" height="auto">
+<img src="./ss6.png" width="285px" height="auto">
