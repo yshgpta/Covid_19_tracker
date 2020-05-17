@@ -6,7 +6,7 @@ This app is build in flutter and refers to current pandemic of Covid-19. This ap
 <b>Version:</b> 1.0</br>
 <b>Updated on:</b> May 2020</br>
 <b>Size:</b> 20 MB</br>
-<b>App permissions:</b> Internet Connectivity </br>
+<b>App permissions:</b> <ul> <li>Internet Connectivity</li> <li> Location Access</li> </ul></br>
 
 ## Images
 [Freepik](www.freepik.com)
