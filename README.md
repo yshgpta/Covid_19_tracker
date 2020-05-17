@@ -3,10 +3,11 @@ This app is build in flutter and refers to current pandemic of Covid-19. This ap
 </br>
 
 ## App Info
-<b>Version:</b> 1.0</br>
-<b>Updated on:</b> May 2020</br>
-<b>Size:</b> 20 MB</br>
-<b>App permissions:</b> <ul> <li>Internet Connectivity</li> <li> Location Access</li> </ul></br>
+<ul>
+<li><b>Version:</b> 1.0</li>
+<li><b>Updated on:</b> May 2020</li>
+<li><b>Size:</b> 20 MB</li>
+<li><b>App permissions:</b> <ul> <li>Internet Connectivity</li> <li> Location Access</li> </ul></li><ul>
 
 ## Images
 [Freepik](www.freepik.com)
